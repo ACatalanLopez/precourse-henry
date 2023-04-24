@@ -1,2 +1,2 @@
-# precourse-henry
-este es el el primer repositorio
+# mi pri. depositorio
+confirmando el cambio de texto
